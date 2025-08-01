@@ -20,7 +20,7 @@
 Hey! I’m that developer who promises to touch grass but ends up touching the keyboard instead. Right now, I’m busy building GreenLegacy, my open-source virtualization project that’s on a mission to make tech more energy-efficient, because if my sleep schedule can’t be saved, the planet still can.<br><br>Lately, I’ve also been diving deep into UI/UX design, because I want my projects to look just as good as they run (and no one deserves to suffer through clunky buttons and weird layouts).<br><br>I speak JavaScript, HTML, CSS, React, Python, C, C++, and Java ~ basically, I collect programming languages like stray mugs on my desk. Whether it’s front-end magic or back-end logic, I like figuring out the puzzle and making it work and look clean.<br><br>When I’m not coding or rearranging the same design element for the 50th time, you’ll find me under the strict supervision of my cat and dog. They run my house like a mafia ~ I just provide snacks and belly rubs.<br><br>I’m all about building things that help people, make life simpler, and do a tiny bit of good for the planet. If you ever want to team up, share ideas, fix stubborn bugs together, or just swap horror stories about rogue semicolons, hit me up. Bring snacks and maybe a nap :)
 
 
-## 🌐 Socials:
+## 🌐 My Email To Contact:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nevinshine05@outlook.com) 
 
 # 💻 Tech Stack:
