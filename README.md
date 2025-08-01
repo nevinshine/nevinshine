@@ -35,7 +35,7 @@ Hey! I’m that developer who promises to touch grass but ends up touching the k
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nevinshine&limit=5&theme=merko&combine_all_yearly_contributions=true)
---->
+---><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
