@@ -93,10 +93,6 @@
     </tr>
   </table>
 
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevinshine&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&theme=github-compact&height=350&point=3461eb&line=6aa66a&area_color=3e3e40&area=true&hide_border=true&custom_title=Monthly%20Activity&radius=4" width="95%" />
