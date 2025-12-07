@@ -88,9 +88,6 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
-      </td>
-      <td align="center">
         <img src="https://nirzak-streak-stats.vercel.app/?user=nevinshine&theme=midnight-purple&hide_border=false" />
       </td>
     </tr>
