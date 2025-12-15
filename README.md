@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=18CC1C&text=Nevin%20Shine&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=00FF00,000000&text=Nevin%20Shine&fontColor=FFFFFF&fontSize=80&animation=fadeIn&fontAlignY=35&section=header"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer;Java+%2B+Linux+Specialist;Securing+the+Backend;Future+RWTH+Aachen+Student" alt="Typing SVG" />
@@ -45,16 +45,16 @@
       <img src="https://img.shields.io/badge/Status-Hardening_Linux_Daily-success?style=flat-square" />
     </td>
     <td width="45%" align="center" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00&hide_border=true&count_private=true" />
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevinshine&theme=radical&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevinshine&theme=dark&background=0d1117&ring=00FF00&currStreakNum=00FF00&sideNums=ffffff&sideLabels=ffffff&fire=00FF00&border=00FF00&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <div align="center">
   <h2>📉 Activity Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&bg_color=0d1117&color=00FF00&line=00FF00&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -140,5 +140,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=18CC1C&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FF00,000000&section=footer"/>
 </p>
