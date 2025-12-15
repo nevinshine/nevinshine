@@ -26,7 +26,7 @@
 
 <table align="center" width="100%" style="border: none;">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="center">
       <h2>🚀 About Me</h2>
       <p>
        <b>"Build efficiently, Secure relentlessly."</b>
@@ -44,20 +44,31 @@
       <img src="https://img.shields.io/badge/Target-RWTH_Aachen_University-00529F?style=flat-square&logo=academic" />
       <img src="https://img.shields.io/badge/Status-Hardening_Linux_Daily-success?style=flat-square" />
     </td>
-    <td width="45%" align="center" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00&hide_border=true&count_private=true" />
-      <br/>
-<img src="https://user-
-images.githubusercontent.com/
-74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-      </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100%"/>
+    </td>
   </tr>
 </table>
+
+<br/>
 
 <div align="center">
   <h2>📉 Activity Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&bg_color=0d1117&color=00FF00&line=00FF00&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
+
+<br/>
+
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00&hide_border=true&count_private=true" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevinshine&theme=dark&background=0d1117&ring=00FF00&currStreakNum=00FF00&sideNums=ffffff&sideLabels=ffffff&fire=00FF00&border=00FF00&hide_border=true" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
