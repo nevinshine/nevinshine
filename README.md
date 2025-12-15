@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=00FF00,004400&text=Nevin%20Shine&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Nevin%20Shine&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer+in+Training;Java+%2B+Linux+Specialist;Securing+the+Backend;Future+RWTH+Aachen+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer;Java+%2B+Linux+Specialist;Securing+the+Backend;Future+RWTH+Aachen+Student" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="center">
       <h2>🚀 About Me</h2>
       <p>
        <b>"Build efficiently, Secure relentlessly."</b>
@@ -44,8 +44,8 @@
       <img src="https://img.shields.io/badge/Target-RWTH_Aachen_University-00529F?style=flat-square&logo=academic" />
       <img src="https://img.shields.io/badge/Status-Hardening_Linux_Daily-success?style=flat-square" />
     </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+    <td width="45%" align="center" valign="center">
+      <img src="https://i.pinimg.com/originals/1c/17/4b/1c174b2563d304ce6583d78994c65f24.gif" width="100%" alt="Cyber Security Animation"/>
     </td>
   </tr>
 </table>
@@ -143,5 +143,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
