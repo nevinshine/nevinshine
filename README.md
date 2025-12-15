@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=00FF00&text=Nevin%20Shine&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=00FF00,004400&text=Nevin%20Shine&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35&fontColor=FFFFFF"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=28D13F&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer+in+Training;Java+%2B+Linux+Specialist;Securing+the+Backend;Future+RWTH+Aachen+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer+in+Training;Java+%2B+Linux+Specialist;Securing+the+Backend;Future+RWTH+Aachen+Student" alt="Typing SVG" />
   </a>
 
   <br/>
