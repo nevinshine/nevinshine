@@ -9,7 +9,7 @@
 
   <p>
     <a href="mailto:nevinshine05@outlook.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Contact_Me-Green?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/nevin-shine-b403b932b">
