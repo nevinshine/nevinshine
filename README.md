@@ -24,9 +24,9 @@
 
 <br/>
 
-<table>
+<table align="center" width="100%" style="border: none;">
   <tr>
-    <td width="55%" valign="center">
+    <td width="55%" valign="top">
       <h2>🚀 About Me</h2>
       <p>
        <b>"Build efficiently, Secure relentlessly."</b>
@@ -44,11 +44,18 @@
       <img src="https://img.shields.io/badge/Target-RWTH_Aachen_University-00529F?style=flat-square&logo=academic" />
       <img src="https://img.shields.io/badge/Status-Hardening_Linux_Daily-success?style=flat-square" />
     </td>
-   <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100%"/>
+    <td width="45%" align="center" valign="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevinshine&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <h2>📉 Activity Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&theme=radical&hide_border=true" width="100%" />
+</div>
 
 <br/>
 
@@ -130,15 +137,6 @@
   <img src="https://img.shields.io/badge/Framework-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   
-<br/>
-
-<div align="center">
-  <h2>📊 Engineering Metrics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevinshine&theme=radical&hide_border=true" />
-</div>
-
 <br/>
 
 <p align="center">
