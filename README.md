@@ -47,8 +47,10 @@
     <td width="45%" align="center" valign="center">
       <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00&hide_border=true&count_private=true" />
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevinshine&theme=dark&background=0d1117&ring=00FF00&currStreakNum=00FF00&sideNums=ffffff&sideLabels=ffffff&fire=00FF00&border=00FF00&hide_border=true" alt="GitHub Streak" />
-    </td>
+      <img src="https://user-
+images.githubusercontent.com/
+74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+     </td>
   </tr>
 </table>
 
