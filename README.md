@@ -125,12 +125,11 @@
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   
   <br/><br/>
-  
-  <h3>🌐 Web & Interfaces</h3>
+    <h3>🌐 Web & Interfaces</h3>
   <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Framework-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
-
+  
 <br/>
 
 <div align="center">
