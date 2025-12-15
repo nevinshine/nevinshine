@@ -1,21 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Nevin's%20GitHub&reversal=false&textBg=false&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=00FF00&text=Nevin%20Shine&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=35"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=28D13F&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer+in+Training;Java+%2B+Linux+Specialist;Securing+the+Backend;Future+RWTH+Aachen+Student" alt="Typing SVG" />
+  </a>
 
-  <h3>Let's Connect and have a Chat! 💬</h3>
+  <br/>
 
   <p>
     <a href="mailto:nevinshine05@outlook.com">
-      <img src="https://img.shields.io/badge/Email-nevinshine05%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/nevin-shine-b403b932b">
-      <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/rebootritual/">
-      <img height="40" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <a href="https://www.linkedin.com/in/nevin-shine-b403b932b">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/nevinshine">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 </div>
@@ -25,23 +27,25 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h2>💫 About Me</h2>
+      <h2>🚀 About Me</h2>
       <p>
-       Hi, I'm Nevin. 🇮🇳<br/>
-       I am a Computer Science student aimed at <b>DevSecOps</b> and <b>System Security</b>.
+       <b>"Build efficiently, Secure relentlessly."</b>
        <br/><br/>
-       My philosophy is simple: <b>"Build it in Java, Secure it in Linux."</b>
+       I am a Computer Science student bridging the gap between <b>Software Engineering</b> and <b>Cybersecurity</b>. While others just write code, I ensure the code lives in a fortress.
        <br/><br/>
-       I am currently bridging the gap between Software Development and Operations by:
+       <b>🔭 Current Focus:</b>
        <ul>
-           <li>🛡️ <b>Hardening Linux Systems</b> (Writing custom Bash scripts for FIM & IDS).</li>
-           <li>⚙️ <b>Automating Security</b> (Moving from manual checks to "Infrastructure as Code").</li>
-           <li>🇩🇪 <b>Preparing for Masters in Germany</b> (Focusing on Theoretical CS & Distributed Systems).</li>
+           <li><b>DevSecOps:</b> Moving from manual security to "Security as Code."</li>
+           <li><b>Algorithms:</b> Implementing custom Data Structures in Java (AVL Trees, Heaps).</li>
+           <li><b>Germany 🇩🇪:</b> Preparing for Masters in Theoretical CS & Distributed Systems.</li>
        </ul>
       </p>
+      <br/>
+      <img src="https://img.shields.io/badge/Target-RWTH_Aachen_University-00529F?style=flat-square&logo=academic" />
+      <img src="https://img.shields.io/badge/Status-Hardening_Linux_Daily-success?style=flat-square" />
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100%"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
     </td>
   </tr>
 </table>
@@ -49,105 +53,95 @@
 <br/>
 
 <div align="center">
-  <h2>🛡️ Current Mission: 100 Days of DevSecOps</h2>
-  <p><i>Building a secure Linux environment from scratch.</i></p>
+  <h2>🛡️ Operation: 100 Days of DevSecOps</h2>
+  <p><i>Documenting the journey from "User" to "Root Architect".</i></p>
+  
   <a href="https://github.com/nevinshine/100-days-of-devsecops">
-    <img src="https://img.shields.io/badge/View_Repository-Active_🟢-success?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Repo_Status-ACTIVE_🟢-success?style=for-the-badge&logo=githubactions"/>
   </a>
   <br/><br/>
   
   <table align="center">
-    <tr>
-      <th>Day</th>
-      <th>Mission</th>
-      <th>Status</th>
-    </tr>
-    <tr>
-      <td><b>Day 05</b></td>
-      <td>File Integrity Monitor (Tripwire)</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><b>Day 04</b></td>
-      <td>Firewall Automation (UFW)</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><b>Day 03</b></td>
-      <td>Network Intrusion Detection</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><b>Day 02</b></td>
-      <td>Linux Process Auditing</td>
-      <td>✅ Completed</td>
-    </tr>
-     <tr>
-      <td><b>Day 01</b></td>
-      <td>Identity & Access Management</td>
-      <td>✅ Completed</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Timeline</th>
+            <th>Mission Objective</th>
+            <th>Tech Used</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Day 05</b></td>
+            <td>File Integrity Monitor (HIDS)</td>
+            <td><code>sha256sum</code> <code>Bash</code></td>
+            <td>✅ DONE</td>
+        </tr>
+        <tr>
+            <td><b>Day 04</b></td>
+            <td>Firewall Automation</td>
+            <td><code>UFW</code> <code>Systemd</code></td>
+            <td>✅ DONE</td>
+        </tr>
+        <tr>
+            <td><b>Day 03</b></td>
+            <td>Network Intrusion Detection</td>
+            <td><code>ss</code> <code>grep</code></td>
+            <td>✅ DONE</td>
+        </tr>
+        <tr>
+            <td><b>Day 02</b></td>
+            <td>Process & Signal Control</td>
+            <td><code>top</code> <code>kill</code></td>
+            <td>✅ DONE</td>
+        </tr>
+         <tr>
+            <td><b>Day 01</b></td>
+            <td>Identity & Access Audit</td>
+            <td><code>awk</code> <code>/etc/passwd</code></td>
+            <td>✅ DONE</td>
+        </tr>
+    </tbody>
   </table>
-</div>
-<br/>
-
-<div align="center">
-  <h2>💻 Tech Stack</h2>
-  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  
-  <br/>
-
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>⚔️ My Arsenal</h2>
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=nevinshine&theme=midnight-purple&hide_border=false" />
-      </td>
-    </tr>
-  </table>
-
+  <h3>🛡️ Security & Operations (The Shield)</h3>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Firewall-UFW-blue?style=for-the-badge&logo=security&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&theme=github-compact&height=350&point=3461eb&line=6aa66a&area_color=3e3e40&area=true&hide_border=true&custom_title=Monthly%20Activity&radius=4" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <h3>⚙️ Development & Core (The Sword)</h3>
+  <img src="https://img.shields.io/badge/Java-Standard_Ed-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-System_Prog-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   
   <br/><br/>
   
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=nevinshine&limit=5&theme=merko&combine_all_yearly_contributions=true" />
+  <h3>🌐 Web & Interfaces</h3>
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📊 Engineering Metrics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevinshine&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer"/>
 </p>
