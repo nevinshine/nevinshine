@@ -27,10 +27,17 @@
     <td width="60%" valign="top">
       <h2>💫 About Me</h2>
       <p>
-       I am a Computer Science student currently hardening Linux systems and building security automation tools.
-       My goal is to bridge the gap between <b>Development</b> (Java/Web) and <b>Security</b> (Linux/Network Defense).
+       Hi, I'm Nevin. 🇮🇳<br/>
+       I am a Computer Science student aimed at <b>DevSecOps</b> and <b>System Security</b>.
        <br/><br/>
-       Lately, I’ve also been diving deep into <b>UI/UX design</b>, because I want my projects to look just as good as they run.
+       My philosophy is simple: <b>"Build it in Java, Secure it in Linux."</b>
+       <br/><br/>
+       I am currently bridging the gap between Software Development and Operations by:
+       <ul>
+           <li>🛡️ <b>Hardening Linux Systems</b> (Writing custom Bash scripts for FIM & IDS).</li>
+           <li>⚙️ <b>Automating Security</b> (Moving from manual checks to "Infrastructure as Code").</li>
+           <li>🇩🇪 <b>Preparing for Masters in Germany</b> (Focusing on Theoretical CS & Distributed Systems).</li>
+       </ul>
       </p>
     </td>
     <td width="40%" align="center">
@@ -87,8 +94,8 @@
 <div align="center">
   <h2>💻 Tech Stack</h2>
   
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -96,23 +103,17 @@
   
   <br/>
 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  
-  <br/>
-
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 
   <br/>
 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
 <br/>
