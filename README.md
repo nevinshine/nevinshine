@@ -44,8 +44,8 @@
       <img src="https://img.shields.io/badge/Target-RWTH_Aachen_University-00529F?style=flat-square&logo=academic" />
       <img src="https://img.shields.io/badge/Status-Hardening_Linux_Daily-success?style=flat-square" />
     </td>
-    <td width="45%" align="center" valign="center">
-      <img src="https://i.pinimg.com/originals/1c/17/4b/1c174b2563d304ce6583d78994c65f24.gif" width="100%" alt="Cyber Security Animation"/>
+   <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100%"/>
     </td>
   </tr>
 </table>
