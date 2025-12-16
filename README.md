@@ -91,6 +91,12 @@
         </tr>
     </thead>
     <tbody>
+      <tr>
+            <td><b>Day 06</b></td>
+            <td>SSH Hardening & Key Auth</td>
+            <td><code>OpenSSH</code> <code>Keys</code></td>
+            <td>✅ DONE</td>
+        </tr>
         <tr>
             <td><b>Day 05</b></td>
             <td>File Integrity Monitor (HIDS)</td>
