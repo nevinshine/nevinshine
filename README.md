@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=18CC1C&text=Nevin%20Shine&fontColor=FFFFFF"/>
   
   <a href="https://git.io/typing-svg">
@@ -91,6 +91,12 @@
         </tr>
     </thead>
     <tbody>
+      <tr>
+      <td><b>Day 07</b></td>
+            <td>Fail2Ban Intrusion Prevention</td>
+            <td><code>Fail2Ban</code> <code>Jails</code></td>
+            <td>✅ DONE</td>
+      </tr>
       <tr>
             <td><b>Day 06</b></td>
             <td>SSH Hardening & Key Auth</td>
