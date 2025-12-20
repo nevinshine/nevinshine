@@ -44,8 +44,8 @@
       <img src="https://img.shields.io/badge/Focus-System_Internals-39FF14?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Status-Building_Sentinel_Sandbox-critical?style=flat-square" />
     </td>
-    <td width="40%" align="center">
-      <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="80%"/>
+     <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100%"/>
     </td>
   </tr>
 </table>
