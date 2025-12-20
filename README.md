@@ -15,6 +15,10 @@
     <a href="https://www.linkedin.com/in/nevin-shine-b403b932b">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+     &nbsp;&nbsp;
+    <a href="https://orcid.org/0009-0004-3029-3649">
+      <img src="https://img.shields.io/badge/ORCID-Researcher_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -41,7 +45,7 @@
       <img src="https://img.shields.io/badge/Status-Building_Sentinel_Sandbox-critical?style=flat-square" />
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/HuJmDM7C49LmqGPDqV/giphy.gif" width="100%"/>
+      <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="80%"/>
     </td>
   </tr>
 </table>
