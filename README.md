@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/Status-Building_Sentinel_Sandbox-critical?style=flat-square" />
     </td>
     <td width="40%" align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5eGZ4eXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4/LMC8apaJCcW78qX6T5/giphy.gif" width="100%"/>
+      <img src="https://media.giphy.com/media/HuJmDM7C49LmqGPDqV/giphy.gif" width="100%"/>
     </td>
   </tr>
 </table>
