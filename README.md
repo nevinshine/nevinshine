@@ -31,7 +31,7 @@
       <p>
         <b>"Observability is the best Defense."</b>
         <br/><br/>
-        I am a <b>Junior Researcher</b> in Systems Security, specializing in <b>Runtime Malware Analysis</b>. My work focuses on bridging low-level Kernel tracing with Machine Learning to detect zero-day anomalies.
+        I am a <b>Independent Researcher</b> in Systems Security, specializing in <b>Runtime Malware Analysis</b>. My work focuses on bridging low-level Kernel tracing with Machine Learning to detect zero-day anomalies.
         <br/><br/>
         <b>🔭 Current Investigation:</b>
         <ul>
