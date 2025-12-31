@@ -27,7 +27,7 @@
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td width="60%" valign="center">
-      <h2>🧬 Research Focus</h2>
+      <h2>Research Focus</h2>
       <p>
         <b>"Observability is the best Defense."</b>
         <br/><br/>
@@ -37,7 +37,7 @@
         <ul>
             <li><b>Sentinel Sandbox:</b> Building a custom <code>ptrace</code>-based execution environment to intercept Linux System Calls.</li>
             <li><b>MLSecOps:</b> Modeling syscall traces as Time-Series data to detect malicious intent using Isolation Forests.</li>
-            <li><b>Germany 🇩🇪:</b> Targeting RWTH Aachen for MSc. in Systems Security.</li>
+            <li><b>Masters:</b> Targeting RWTH Aachen for MSc. in Systems Security.</li>
         </ul>
       </p>
       <br/>
@@ -53,16 +53,16 @@
 <br/>
 
 <div align="center">
-  <h2>📉 Research Activity</h2>
+  <h2>Research Activity</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>🧪 Technical Lab (Arsenal)</h2>
+  <h2>Technical Lab (Arsenal)</h2>
   
-  <h3>🏗️ Systems & Kernel (The Engine)</h3>
+  <h3>Systems & Kernel (The Engine)</h3>
   <img src="https://img.shields.io/badge/C-System_Programming-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-Kernel_Analysis-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -70,7 +70,7 @@
   
   <br/><br/>
 
-  <h3>🛡️ Security & Ops (The Defense)</h3>
+  <h3>Security & Ops (The Defense)</h3>
   <img src="https://img.shields.io/badge/Python-MLSecOps-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-Infrastructure-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
