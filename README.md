@@ -33,7 +33,7 @@
         <br/><br/>
         I am a <b>Independent Researcher</b> in Systems Security, specializing in <b>Runtime Malware Analysis</b>. My work focuses on bridging low-level Kernel tracing with Machine Learning to detect zero-day anomalies.
         <br/><br/>
-        <b>🔭 Current Investigation:</b>
+        <b>Current Investigation:</b>
         <ul>
             <li><b>Sentinel Sandbox:</b> Building a custom <code>ptrace</code>-based execution environment to intercept Linux System Calls.</li>
             <li><b>MLSecOps:</b> Modeling syscall traces as Time-Series data to detect malicious intent using Isolation Forests.</li>
