@@ -41,7 +41,7 @@
         </ul>
       </p>
       <br/>
-      <img src="https://img.shields.io/badge/Focus-System_Internals-39FF14?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Focus-System_Internals-363636?style=flat-square&logo=linux&logoColor=white" />
       <img src="https://img.shields.io/badge/Status-Building_Sentinel-critical?style=flat-square" />
     </td>
      <td width="40%" align="center">
