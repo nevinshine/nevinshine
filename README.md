@@ -8,6 +8,10 @@
   <br/>
 
   <p>
+    <a href="https://nevinshine.github.io/runtime-security-dossier">
+      <img src="https://img.shields.io/badge/Research_Dossier-Read_Field_Reports-FF4500?style=for-the-badge&logo=gitbook&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
     <a href="mailto:nevinshine05@outlook.com">
       <img src="https://img.shields.io/badge/Email-Research_Inquiries-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
@@ -33,16 +37,30 @@
         <br/><br/>
         I am a <b>Systems Security Research Engineer</b> specializing in <b>Runtime Verification</b>. My work focuses on bridging low-level Kernel tracing with behavioral analysis to detect execution anomalies.
         <br/><br/>
-        <b>Current Investigation:</b>
-        <ul>
-            <li><b>Sentinel Runtime:</b> Building a custom <code>ptrace</code>-based execution monitor to intercept and verify Linux System Calls.</li>
-            <li><b>Behavioral Analysis:</b> Modeling syscall traces as sequences to detect malicious intent without signatures.</li>
-            <li><b>Goal:</b> Preparing for MSc-level research in Systems and Security.</li>
-        </ul>
+        <b>Active Research Artifacts:</b>
+        <br/><br/>
+        <table width="100%">
+          <tr>
+            <td width="50%">
+              <a href="https://github.com/nevinshine/sentinel-runtime">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=sentinel-runtime&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" width="100%" />
+              </a>
+              <br/>
+              <img src="https://img.shields.io/badge/Status-M3.0_Cognitive_Engine-blueviolet?style=flat-square" />
+            </td>
+            <td width="50%">
+              <a href="https://github.com/nevinshine/hyperion-xdp">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=hyperion-xdp&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" width="100%" />
+              </a>
+              <br/>
+              <img src="https://img.shields.io/badge/Status-M2.0_Stateful-blue?style=flat-square" />
+            </td>
+          </tr>
+        </table>
       </p>
       <br/>
       <img src="https://img.shields.io/badge/Focus-System_Internals-363636?style=flat-square&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Status-Building_Sentinel-critical?style=flat-square" />
+      <img src="https://img.shields.io/badge/Role-Research_Engineer-critical?style=flat-square" />
     </td>
      <td width="40%" align="center">
       <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100%"/>
@@ -66,6 +84,7 @@
   <img src="https://img.shields.io/badge/C-System_Programming-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-Kernel_Analysis-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/ptrace-Runtime_Tracing-333333?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/eBPF-Network_Filtering-F7931E?style=for-the-badge&logo=ebpf&logoColor=white">
   <img src="https://img.shields.io/badge/GDB-Debugging-DD0031?style=for-the-badge&logo=gnu&logoColor=white">
   
   <br/><br/>
