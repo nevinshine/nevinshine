@@ -59,19 +59,20 @@
 <div align="center">
   <h2>Active Research Artifacts</h2>
   <p>Operational engines currently under development in the lab.</p>
-  
-  <a href="https://github.com/nevinshine/sentinel-runtime">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=sentinel-runtime&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/nevinshine/hyperion-xdp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=hyperion-xdp&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" />
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Sentinel-M3.0_Cognitive_Engine-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hyperion-M2.0_Stateful_Firewall-blue?style=flat-square" />
+  <table width="100%" align="center">
+    <tr>
+      <td align="center">
+          <a href="https://github.com/nevinshine/sentinel-runtime">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=sentinel-runtime&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://github.com/nevinshine/hyperion-xdp">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=hyperion-xdp&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" />
+          </a>
+          <br/><br/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
