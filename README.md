@@ -37,26 +37,12 @@
         <br/><br/>
         I am a <b>Systems Security Research Engineer</b> specializing in <b>Runtime Verification</b>. My work focuses on bridging low-level Kernel tracing with behavioral analysis to detect execution anomalies.
         <br/><br/>
-        <b>Active Research Artifacts:</b>
-        <br/><br/>
-        <table width="100%">
-          <tr>
-            <td width="50%">
-              <a href="https://github.com/nevinshine/sentinel-runtime">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=sentinel-runtime&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" width="100%" />
-              </a>
-              <br/>
-              <img src="https://img.shields.io/badge/Status-M3.0_Cognitive_Engine-blueviolet?style=flat-square" />
-            </td>
-            <td width="50%">
-              <a href="https://github.com/nevinshine/hyperion-xdp">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=hyperion-xdp&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" width="100%" />
-              </a>
-              <br/>
-              <img src="https://img.shields.io/badge/Status-M2.0_Stateful-blue?style=flat-square" />
-            </td>
-          </tr>
-        </table>
+        <b>Current Investigation:</b>
+        <ul>
+            <li><b>Sentinel Runtime:</b> Building a custom <code>ptrace</code>-based execution monitor to intercept and verify Linux System Calls.</li>
+            <li><b>Behavioral Analysis:</b> Modeling syscall traces as sequences to detect malicious intent without signatures.</li>
+            <li><b>Goal:</b> Preparing for MSc-level research in Systems and Security.</li>
+        </ul>
       </p>
       <br/>
       <img src="https://img.shields.io/badge/Focus-System_Internals-363636?style=flat-square&logo=linux&logoColor=white" />
@@ -67,6 +53,26 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <h2>Active Research Artifacts</h2>
+  <p>Operational engines currently under development in the lab.</p>
+  
+  <a href="https://github.com/nevinshine/sentinel-runtime">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=sentinel-runtime&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nevinshine/hyperion-xdp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=hyperion-xdp&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Sentinel-M3.0_Cognitive_Engine-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hyperion-M2.0_Stateful_Firewall-blue?style=flat-square" />
+</div>
 
 <br/>
 
