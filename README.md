@@ -23,31 +23,43 @@
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=39FF14&vCenter=true&width=350&lines=Research+Focus&repeat=false" alt="Research Focus" />
-      <p>
-        <b><i>"Observability is the best defense."</i></b>
-        <br/><br/>
-        I am a <b>Systems Security Research Engineer</b> specializing in <b>Runtime Verification</b>. My work focuses on bridging low-level kernel tracing with behavioral analysis to detect execution anomalies.
-        <br/><br/>
-      </p>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=39FF14&vCenter=true&width=280&lines=Current+Investigation&repeat=false" alt="Current Investigation" />
-      <ul>
-          <li><b>Sentinel Runtime:</b> Building a custom <code>ptrace</code>-based execution monitor to intercept and verify Linux system calls.</li>
-          <li><b>Behavioral Analysis:</b> Modeling syscall traces as sequences to detect malicious intent without signatures.</li>
-          <li><b>Goal:</b> Preparing for MSc-level research in Systems and Security.</li>
-      </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/Focus-System_Internals-FFFFFF?style=flat-square&logo=linux&logoColor=black&labelColor=363636" />
-      <img src="https://img.shields.io/badge/Role-Research_Engineer-FFFFFF?style=flat-square&labelColor=DC143C" />
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=350&lines=Research+Focus&repeat=false" alt="Research Focus" />
+  <br/><br/>
+  <p><b><i>"Observability is the best defense."</i></b></p>
+  <br/>
+  <p>
+    I am a <b>Systems Security Research Engineer</b> specializing in <b>Runtime Verification</b>.<br/>
+    My work focuses on bridging low-level kernel tracing with behavioral analysis to detect execution anomalies.
+  </p>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=280&lines=Current+Investigation&repeat=false" alt="Current Investigation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Sentinel Runtime</b></td>
+      <td>Building a custom <code>ptrace</code>-based execution monitor to intercept and verify Linux system calls.</td>
+    </tr>
+    <tr>
+      <td><b>Behavioral Analysis</b></td>
+      <td>Modeling syscall traces as sequences to detect malicious intent without signatures.</td>
+    </tr>
+    <tr>
+      <td><b>Goal</b></td>
+      <td>Preparing for MSc-level research in Systems and Security.</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/⬢_System_Internals-0D1117?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⬢_Research_Engineer-0D1117?style=for-the-badge&logoColor=white" />
+</div>
 
 <br/>
 
@@ -75,8 +87,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=350&lines=GitHub+Statistics&repeat=false" alt="GitHub Statistics" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevinshine&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&hide_border=true" width="49%" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=nevinshine&show_icons=true&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" width="48%" align="top" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevinshine&layout=compact&theme=react&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&hide_border=true&langs_count=6" width="40%" align="top" />
+  </p>
 </div>
 
 <br/>
@@ -89,6 +104,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=350&lines=Research+Activity&repeat=false" alt="Research Activity" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" width="100%" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
