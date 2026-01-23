@@ -7,21 +7,14 @@
 
   <br/><br/>
 
-  <a href="https://nevinshine.github.io/system-security-research-dossier">
-    <img src="https://img.shields.io/badge/Research_Dossier-Read_Field_Reports-FF4500?style=for-the-badge&logo=gitbook&logoColor=white" />
-  </a>
+  [![Research Dossier](https://img.shields.io/badge/Research_Dossier-Read_Field_Reports-FF4500?style=for-the-badge&logo=gitbook&logoColor=white)](https://nevinshine.github.io/system-security-research-dossier)
   &nbsp;
-  <a href="mailto:nevinshine05@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Research_Inquiries-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
+  [![Email](https://img.shields.io/badge/Email-Research_Inquiries-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:nevinshine05@outlook.com)
   &nbsp;
-  <a href="https://www.linkedin.com/in/nevin-shine-b403b932b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevin-shine-b403b932b)
   &nbsp;
-  <a href="https://orcid.org/0009-0004-3029-3649">
-    <img src="https://img.shields.io/badge/ORCID-Researcher_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
+  [![ORCID](https://img.shields.io/badge/ORCID-Researcher_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-3029-3649)
+
 </div>
 
 <br/>
@@ -33,14 +26,14 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=39FF14&vCenter=true&width=350&lines=Research+Focus&repeat=false" alt="Research Focus" /></h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=39FF14&vCenter=true&width=350&lines=Research+Focus&repeat=false" alt="Research Focus" />
       <p>
         <b><i>"Observability is the best defense."</i></b>
         <br/><br/>
         I am a <b>Systems Security Research Engineer</b> specializing in <b>Runtime Verification</b>. My work focuses on bridging low-level kernel tracing with behavioral analysis to detect execution anomalies.
         <br/><br/>
       </p>
-      <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=39FF14&vCenter=true&width=280&lines=Current+Investigation&repeat=false" alt="Current Investigation" /></h3>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=39FF14&vCenter=true&width=280&lines=Current+Investigation&repeat=false" alt="Current Investigation" />
       <ul>
           <li><b>Sentinel Runtime:</b> Building a custom <code>ptrace</code>-based execution monitor to intercept and verify Linux system calls.</li>
           <li><b>Behavioral Analysis:</b> Modeling syscall traces as sequences to detect malicious intent without signatures.</li>
@@ -66,13 +59,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=Active+Research+Artifacts&repeat=false" alt="Active Research Artifacts" />
   <p><i>Operational engines currently under development in the lab.</i></p>
   <br/>
-  <a href="https://github.com/nevinshine/sentinel-runtime">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=sentinel-runtime&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" />
-  </a>
+  
+  [![Sentinel Runtime](https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=sentinel-runtime&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=30363d&hide_border=true)](https://github.com/nevinshine/sentinel-runtime)
   &nbsp;&nbsp;
-  <a href="https://github.com/nevinshine/hyperion-xdp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=hyperion-xdp&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&border_color=30363d&hide_border=true" />
-  </a>
+  [![Hyperion XDP](https://github-readme-stats.vercel.app/api/pin/?username=nevinshine&repo=hyperion-xdp&theme=react&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=30363d&hide_border=true)](https://github.com/nevinshine/hyperion-xdp)
+
 </div>
 
 <br/>
@@ -148,17 +139,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=400&lines=Connect+%26+Collaborate&repeat=false" alt="Connect & Collaborate" />
   <p><i>Open to research collaborations, discussions on systems security, and MSc opportunities.</i></p>
   <br/>
-  <a href="https://nevinshine.github.io/system-security-research-dossier">
-    <img src="https://img.shields.io/badge/Research_Dossier-Explore_My_Work-FFFFFF?style=for-the-badge&labelColor=FF4500" />
-  </a>
+  
+  [![Research Dossier](https://img.shields.io/badge/Research_Dossier-Explore_My_Work-FFFFFF?style=for-the-badge&labelColor=FF4500)](https://nevinshine.github.io/system-security-research-dossier)
   &nbsp;
-  <a href="mailto:nevinshine05@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-FFFFFF?style=for-the-badge&labelColor=0078D4" />
-  </a>
+  [![Email](https://img.shields.io/badge/Email-Get_In_Touch-FFFFFF?style=for-the-badge&labelColor=0078D4)](mailto:nevinshine05@outlook.com)
   &nbsp;
-  <a href="https://www.linkedin.com/in/nevin-shine-b403b932b">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-FFFFFF?style=for-the-badge&labelColor=0077B5" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-FFFFFF?style=for-the-badge&labelColor=0077B5)](https://www.linkedin.com/in/nevin-shine-b403b932b)
+
 </div>
 
 <br/>
@@ -168,7 +155,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nevinshine&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=nevinshine&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=39FF14" />
 </div>
 
 <br/>
