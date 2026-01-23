@@ -105,7 +105,7 @@
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevinshine&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" width="100%" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/nevinshine/nevinshine/output/github-snake-dark.svg" width="100%"/>
+ <img src="https://raw.githubusercontent.com/nevinshine/nevinshine/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
