@@ -10,7 +10,7 @@ nevin@TELOS-Mainframe:~$ ./fetch_status --deep-scan
 
   USER       nevinshine
   ROLE       Undergraduate Systems Security Researcher
-  HOST       TELOS-Mainframe (Ubuntu 24.04 LTS)
+  HOST       TELOS-Mainframe (Ubuntu 22.04 LTS)
   KERNEL     6.8.0-45-generic (eBPF LSM Enabled)
   UPTIME     99.9% (High Availability)
   
