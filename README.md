@@ -1,31 +1,49 @@
-```text
-  ███╗   ██╗ ███████╗ ██╗   ██╗ ██╗ ███╗   ██╗
-  ████╗  ██║ ██╔════╝ ██║   ██║ ██║ ████╗  ██║
-  ██╔██╗ ██║ █████╗   ██║   ██║ ██║ ██╔██╗ ██║
-  ██║╚██╗██║ ██╔══╝   ╚██╗ ██╔╝ ██║ ██║╚██╗██║
-  ██║ ╚████║ ███████╗  ╚████╔╝  ██║ ██║ ╚████║
-  ╚═╝  ╚═══╝ ╚══════╝   ╚═══╝   ╚═╝ ╚═╝  ╚═══╝
+```console
+nevin@TELOS-Mainframe:~$ ./fetch_status --deep-scan
 
-  USER       @nevinshine (Undergraduate System Security Researcher)
-  OS         Linux (Custom Sentinel Runtime)
-  KERNEL     6.8.0-45-generic (eBPF Instrumentation)
+      ███╗   ██╗ ███████╗ ██╗   ██╗ ██╗ ███╗   ██╗
+      ████╗  ██║ ██╔════╝ ██║   ██║ ██║ ████╗  ██║
+      ██╔██╗ ██║ █████╗   ██║   ██║ ██║ ██╔██╗ ██║
+      ██║╚██╗██║ ██╔══╝   ╚██╗ ██╔╝ ██║ ██║╚██╗██║
+      ██║ ╚████║ ███████╗  ╚████╔╝  ██║ ██║ ╚████║
+      ╚═╝  ╚═══╝ ╚══════╝   ╚═══╝   ╚═╝ ╚═╝  ╚═══╝
+
+  USER       nevinshine
+  ROLE       Undergraduate Systems Security Researcher
+  HOST       TELOS-Mainframe (Ubuntu 24.04 LTS)
+  KERNEL     6.8.0-45-generic (eBPF LSM Enabled)
   UPTIME     99.9% (High Availability)
-  SHELL      /bin/zsh (Oh-My-Zsh)
   
-  ----------------------------------------------
+  -----------------[ MISSION LOG ]-----------------
   
-  CURRENT MISSION
-  > Architecting TELOS (Split-Plane Defense)
-  > Writing eBPF Hooks for Hyperion XDP
-  > Debugging ptrace(2) race conditions
+  STATUS     Architecting TELOS (Agentic AI Defense)
+  CURRENT    Migrating Host Core from ptrace(2) to LSM BPF
+  TARGET     Fraunhofer AISEC Internship (May 2026)
+  
+  -----------------[ TELOS ARCHITECTURE ]----------
+  
+  [SENSOR]   Browser Eye ... DOM-based Semantic Taint Tracking
+  [BRAIN]    Cortex ........ gRPC Intent Verification (Python)
+  [CORE]     Sentinel ...... LSM Hooks (bprm_check_security)
+  [EDGE]     Hyperion ...... XDP Packet Drop (Zero-Copy)
 
-  ACTIVE ARSENAL
-  > Languages:  C, Rust, Go, Python
-  > Core Ops:   Linux Kernel, eBPF, XDP
-  > Tools:      GDB, Wireshark, Vim, Docker
+  -----------------[ SYSTEM INTERNALS ]------------
+  
+  PROTOCOL   gRPC/Protobuf for Cross-Plane State Sync.
+  NETWORK    Just-in-Time (JIT) Allow-Listing via BPF Maps.
+  DEFENSE    Keyless SSL Inspection via Uprobes.
 
-  CONTACT UPLINK
-  > Email:      nevinshine05@outlook.com
-  > LinkedIn:   /in/nevin-shine-b403b932b
-  > Portfolio:  https://nevinshine.github.io/
-  > Dossier:    https://nevinshine.github.io/system-security-resesrch-dossier
+  -----------------[ ACTIVE ARSENAL ]--------------
+  
+  LANGUAGES  C, Go, Rust, Python, x86 Assembly
+  CORE OPS   Linux Kernel, eBPF (LSM/XDP), Namespaces
+  TOOLS      GDB, Wireshark, Docker, Kubernetes
+  HOBBIES    Kernel Hacking, Distro Ricing, Poetry
+  
+  -----------------[ CONTACT UPLINK ]--------------
+  
+  EMAIL      nevinshine05@outlook.com
+  LINKEDIN   /in/nevin-shine-b403b932b
+  DOSSIER    nevinshine.github.io
+
+nevin@TELOS-Mainframe:~$ _
