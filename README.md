@@ -1,7 +1,7 @@
 <br>
   
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0078D4&text=Nevin%20Shine&height=100&fontSize=70" alt="Nevin Shine" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea44f&text=Nevin%20Shine&height=100&fontSize=70" alt="Nevin Shine" />
 
   <h3>Undergraduate Systems Security Researcher</h3>
 
