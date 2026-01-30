@@ -44,6 +44,6 @@ nevin@TELOS-Mainframe:~$ ./fetch_status --deep-scan
   
   EMAIL      nevinshine05@outlook.com
   LINKEDIN   /in/nevin-shine-b403b932b
-  DOSSIER    nevinshine.github.io
+  PORTFOLIO  nevinshine.github.io
 
 nevin@TELOS-Mainframe:~$ _
