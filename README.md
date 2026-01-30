@@ -11,11 +11,9 @@
   <a href="mailto:nevinshine05@outlook.com">
     <img src="https://img.shields.io/badge/Email-nevinshine05%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/nevin-shine-b403b932b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://nevinshine.github.io/system-security-research-dossier">
     <img src="https://img.shields.io/badge/Dossier-Research%20Portfolio-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
