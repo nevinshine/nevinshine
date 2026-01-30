@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,161b22,0D1117&height=280&section=header&text=Nevin%20Shine&fontSize=80&fontColor=0078D4&fontAlignY=35&desc=Undergraduate%20Systems%20Security%20Researcher&descSize=25&descAlignY=60&descAlign=50" alt="Nevin Shine Header" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0078D4&text=Nevin%20Shine&height=100&fontSize=70" alt="Nevin Shine" />
+  
+  <h3>Undergraduate Systems Security Researcher</h3>
   <p>
     <b>Research Focus:</b> Linux Runtime Defense & Kernel-Bypass Networking (eBPF)<br>
     <b>Current Status:</b> Architecting the TELOS Runtime
@@ -26,6 +23,8 @@
 </div>
 
 <br /><br />
+
+---
 
 ## Research Abstract
 
@@ -82,7 +81,3 @@ I am an **Undergraduate Researcher** focusing on the intersection of **Systems E
 <div align="center">
   <sub>Currently based in Nürnberg, Germany (Permanent) / India (Academic). Open to HiWi/Internship opportunities starting May 2026.</sub>
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
