@@ -2,20 +2,20 @@
   <h1>Nevin Shine</h1>
   <h3>Undergraduate Systems Security Researcher</h3>
   <p>
-    <b>Research Focus:</b> Linux Runtime Defense & Kernel-Bypass Networking (eBPF/XDP)<br>
+    <b>Research Focus:</b> Linux Runtime Defense & Kernel-Bypass Networking<br>
     <b>Current Status:</b> Architecting the TELOS Runtime
   </p>
 
   <br>
 
   <a href="mailto:nevinshine05@outlook.com">
-    <img src="https://img.shields.io/badge/Email-nevinshine05%40outlook.com-333333?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-nevinshine05%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nevin-shine-b403b932b">
-    <img src="https://img.shields.io/badge/LinkedIn-Nevin%20Shine-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://nevinshine.github.io/system-security-research-dossier">
-    <img src="https://img.shields.io/badge/Portfolio-Research%20Dossier-0055aa?style=flat-square&logo=firefoxbrowser&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dossier-Research%20Portfolio-2ea44f?style=flat-square&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -33,12 +33,12 @@ My primary research artifact is **TELOS**, a split-plane defense architecture th
 
 ### Active Research: The TELOS Runtime
 
-TELOS is a hybrid security system designed to prevent "The Great Exfiltration" in Agentic AI. It consists of two independent engines working in a closed loop.
+TELOS is a hybrid security system designed to prevent "The Great Exfiltration" in Agentic AI.
 
-| Component | Engine Name | Technology | Defense Role |
+| Component | Engine Name | Technology Stack | Defense Role |
 | :--- | :--- | :--- | :--- |
-| **CORE (Host)** | [**Sentinel Runtime**](https://github.com/nevinshine/sentinel-runtime) | `ptrace` / `LSM` | **The Bodyguard.** Intercepts `execve` and file syscalls to prevent unauthorized local execution. |
-| **EDGE (Network)** | [**Hyperion XDP**](https://github.com/nevinshine/hyperion-xdp) | `eBPF` / `XDP` | **The Border Patrol.** Drops malicious packets at the NIC level ($O(1)$) before they touch the OS stack. |
+| **CORE (Host)** | [**Sentinel Runtime**](https://github.com/nevinshine/sentinel-runtime) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black) | **The Bodyguard.** Intercepts `execve` and file syscalls via `ptrace`/LSM hooks. |
+| **EDGE (Network)** | [**Hyperion XDP**](https://github.com/nevinshine/hyperion-xdp) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![eBPF](https://img.shields.io/badge/eBPF-F7931E?style=flat-square&logo=ebpf&logoColor=white) | **The Border Patrol.** Drops malicious packets at the NIC ($O(1)$) via XDP. |
 
 ---
 
@@ -46,12 +46,27 @@ TELOS is a hybrid security system designed to prevent "The Great Exfiltration" i
 
 I specialize in **low-level systems programming** and **kernel instrumentation**.
 
-| Domain | Technologies & Methods |
-| :--- | :--- |
-| **Kernel Space** | eBPF (Extended Berkeley Packet Filter), XDP, Linux Security Modules (LSM), Ring Buffers |
-| **User Space** | C (Systems), Go (Control Plane), Rust (Memory Safety), Namespaces/Cgroups v2 |
-| **Analysis** | Python (Scikit-learn), GDB, bpftool, Wireshark, Perf |
-| **Architecture** | Split-Plane Security, Event-Driven Architecture, Zero-Copy Memory Management |
+**Kernel & Systems**
+<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![eBPF](https://img.shields.io/badge/eBPF-F7931E?style=flat-square&logo=ebpf&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Control Plane & Analysis**
+<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Tools & Diagnostics**
+<br>
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-Debugger-DD0031?style=flat-square&logo=gnu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
@@ -66,4 +81,3 @@ I specialize in **low-level systems programming** and **kernel instrumentation**
 <div align="center">
   <sub>Currently based in Nürnberg, Germany (Permanent) / India (Academic). Open to HiWi/Internship opportunities starting May 2026.</sub>
 </div>
-
