@@ -77,7 +77,7 @@ I specialize in **low-level systems programming** and **kernel instrumentation**
 - **Mindscape BCI:** Awarded *Best Project 2025* for real-time EEG signal processing pipeline.
 
 <br>
-
+---
 <div align="center">
   <sub>Currently based in Nürnberg, Germany (Permanent) / India (Academic). Open to HiWi/Internship opportunities starting May 2026.</sub>
 </div>
