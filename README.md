@@ -6,6 +6,8 @@
  ██║ ╚████║███████╗ ╚████╔╝ ██║██║ ╚████║
  ╚═╝  ╚═══╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 </pre>
+
+---
   <h3>Undergraduate Systems Security Researcher</h3>
 
   <p>
