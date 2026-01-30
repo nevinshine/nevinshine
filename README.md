@@ -27,4 +27,5 @@
   CONTACT UPLINK
   > Email:      nevinshine05@outlook.com
   > LinkedIn:   /in/nevin-shine-b403b932b
+  > Portfolio:  https://nevinshine.github.io/
   > Dossier:    https://nevinshine.github.io/system-security-resesrch-dossier
