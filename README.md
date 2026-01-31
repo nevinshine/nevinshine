@@ -10,7 +10,7 @@ nevin@TELOS-Mainframe:~$ ./fetch_status --deep-scan
 
   USER       nevinshine
   ROLE       Undergraduate Systems Security Researcher
-  HOST       TELOS-Mainframe (Fedora Linux 43 (Workstation Edition))
+  HOST       TELOS-Mainframe (Fedora Linux 43)
   KERNEL     6.8.0-45-generic (eBPF LSM Enabled)
   UPTIME     99.9% (High Availability)
   
