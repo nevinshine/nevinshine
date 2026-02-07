@@ -11,7 +11,7 @@ nevin@TELOS-Mainframe:~$ ./fetch_status --deep-scan
   USER       nevinshine
   ROLE       Undergraduate Systems Security Researcher
   HOST       TELOS-Mainframe (Fedora Linux 43)
-  KERNEL     Linux 6.18.7-200
+  KERNEL     6.18.7-200
   UPTIME     99.9% (High Availability)
   
   -----------------[ MISSION LOG ]-----------------
