@@ -18,7 +18,6 @@ nevin@TELOS-Mainframe:~$ ./fetch_status --deep-scan
   
   STATUS     Architecting TELOS (Agentic AI Defense)
   CURRENT    Migrating Host Core from ptrace(2) to LSM BPF
-  TARGET     Fraunhofer AISEC Internship (May 2026)
   
   -----------------[ TELOS ARCHITECTURE ]----------
   
@@ -49,14 +48,3 @@ nevin@TELOS-Mainframe:~$ ./fetch_status --deep-scan
 nevin@TELOS-Mainframe:~$ _
 
 ```
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevinshine&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nevinshine&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
----
-
-![GitHub Stats](https://streak-stats.demolab.com?user=nevinshine&theme=tokyonight&hide_border=true)
