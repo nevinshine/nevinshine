@@ -71,7 +71,7 @@ nevin@fedora-lab:~$ ./fetch_status --deep-scan --verbose
   GITHUB     github.com/nevinshine
 
 nevin@fedora-lab:~$ uptime
-  up 20y 4m — hacking kernels, no swap needed.
+  up 20y — hacking kernels, no swap needed.
 
 nevin@fedora-lab:~$ _
 
