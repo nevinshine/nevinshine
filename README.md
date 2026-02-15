@@ -56,9 +56,10 @@ nevin@fedora-lab:~$ ./fetch_profile
 [ CONNECT ]
 
  EMAIL        :: nevinshine05@outlook.com
- GITHUB       :: [github.com/nevinshine](https://github.com/nevinshine)
- LINKEDIN     :: [linkedin.com/in/nevin-shine-b403b932b](https://linkedin.com/in/nevin-shine-b403b932b)
- LOCATION     :: Germany / India
+ GITHUB       :: /nevinshine
+ LINKEDIN     :: /in/nevin-shine-b403b932b
+ LOCATION     :: Nürnberg, Germany / Kottayam, India
+ PORTFOLIO    :: nevinshine.github.io/
 
 nevin@fedora-lab:~$ uptime
  up 20y — building systems, still compiling.
