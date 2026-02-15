@@ -1,5 +1,7 @@
 ### Nevin Shine @ `fedora-lab`
 
+---
+
 ```console
 nevin@fedora-lab:~$ ./fetch_profile
 
@@ -62,3 +64,8 @@ nevin@fedora-lab:~$ ./fetch_profile
 
 nevin@fedora-lab:~$ uptime
  up 20y — building systems, still compiling.
+
+```
+---
+
+Nevin Shine @ 2026
