@@ -22,6 +22,7 @@ nevin@fedora-lab:~$ ./fetch_profile
  to mitigate fileless malware and Living-off-the-Land attacks.
 
 -------------------------------------------------------------------
+
 [ ACTIVE RESEARCH SYSTEMS ]
 
  Sentinel-CC — Compiler-Kernel Trust Chain
@@ -46,6 +47,7 @@ nevin@fedora-lab:~$ ./fetch_profile
           kernel execution graphs for secure autonomous systems.
 
 -------------------------------------------------------------------
+
 [ TECHNICAL TOOLCHAIN ]
 
  LANGUAGES    :: C, C++, Rust, Python, x86 Assembly
@@ -54,6 +56,7 @@ nevin@fedora-lab:~$ ./fetch_profile
  DEBUGGING    :: GDB, bpftool, strace, perf, Wireshark
 
 -------------------------------------------------------------------
+
 [ CONNECT ]
 
  EMAIL        :: nevinshine05@outlook.com
@@ -61,6 +64,8 @@ nevin@fedora-lab:~$ ./fetch_profile
  LINKEDIN     :: /in/nevin-shine-b403b932b
  LOCATION     :: Nürnberg, Germany / Kottayam, India
  PORTFOLIO    :: nevinshine.github.io/
+
+===================================================================
 
 nevin@fedora-lab:~$ uptime
  up 20y — building systems, still compiling.
