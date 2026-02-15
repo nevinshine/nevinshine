@@ -1,78 +1,64 @@
+### Nevin Shine @ `fedora-lab`
+
 ```console
+nevin@fedora-lab:~$ ./fetch_profile
 
-nevin@fedora-lab:~$ ./fetch_status --deep-scan --verbose
+===================================================================
+ NEVIN SHINE
+ Systems Security Student  |  Linux Kernel & eBPF Researcher
+===================================================================
 
-      ███╗   ██╗ ███████╗ ██╗   ██╗ ██╗ ███╗   ██╗
-      ████╗  ██║ ██╔════╝ ██║   ██║ ██║ ████╗  ██║
-      ██╔██╗ ██║ █████╗   ██║   ██║ ██║ ██╔██╗ ██║
-      ██║╚██╗██║ ██╔══╝   ╚██╗ ██╔╝ ██║ ██║╚██╗██║
-      ██║ ╚████║ ███████╗  ╚████╔╝  ██║ ██║ ╚████║
-      ╚═╝  ╚═══╝ ╚══════╝   ╚═══╝   ╚═╝ ╚═╝  ╚═══╝
+[ WHOAMI ]
 
-  -----------------[ SMALL STATS ]-----------------
+ Systems security student focused on bridging the "semantic gap"
+ between compile-time intent and runtime enforcement.
 
-  USER       nevinshine
-  ROLE       Systems Security Research Engineer
-  HOST       Fedora Linux 43 (Custom Kernel 6.18.7)
-  CONTEXT    System Security Researcher (CS Undergrad)
+ Specializing in deterministic, kernel-native defense architectures
+ using eBPF, LLVM, and Linux Security Modules (LSM).
 
-  -----------------[ CURRENT OBJECTIVE ]-----------
+ Currently researching high-performance runtime enforcement by
+ migrating legacy ptrace supervision into ring-0 eBPF-LSM engines
+ to mitigate fileless malware and Living-off-the-Land attacks.
 
-  TASK       Unified Runtime Migration (v3.2)
-  STATUS     Refactoring ptrace(2) logic to LSM BPF.
-             Benchmarking XDP drop rates on kernel 6.18.
+-------------------------------------------------------------------
+[ ACTIVE RESEARCH SYSTEMS ]
 
-  -----------------[ SYSTEM COMPONENTS ]-----------
+ Sentinel-CC — Compiler-Kernel Trust Chain
+ CORE   :: LLVM, C++, eBPF
+ DESC   :: Policy-Carrying Code (PCC) architecture that cryptographically
+          binds compiler-verified execution intent to kernel enforcement.
+          Supports ASLR normalization via Map-of-Maps design.
 
-  [SENSOR]   Browser Eye ... DOM-based Semantic Taint Tracking
-  [BRAIN]    Cortex ........ gRPC Intent Verification (Python)
-  [CORE]     Sentinel ...... LSM Hooks (bprm_check_security)
-  [EDGE]     Hyperion ...... XDP Packet Drop (Zero-Copy)
+ Sentinel Runtime — Kernel Intrusion Prevention
+ CORE   :: C, eBPF LSM Hooks
+ DESC   :: Host-based runtime defense system enforcing process lineage
+          and syscall provenance to block fileless malware.
 
-  -----------------[ ACTIVE RESEARCH LAB ]---------
+ Hyperion — Wire-Speed Network Containment
+ CORE   :: C, eBPF XDP
+ DESC   :: NIC-level firewall performing zero-copy packet filtering
+          to disrupt command-and-control channels in real time.
 
-  [SENTINEL] Runtime Defense Engine
-             └─ CORE:   C, Rust, eBPF (LSM Hooks)
-             └─ DESC:   Maps syscall arguments to process intent using 
-                        eBPF LSM hooks. Detects data exfiltration and 
-                        injection without context switching.
-                        (Zero overhead on the hot path).
+ Telos Runtime — Agentic Security Architecture
+ CORE   :: eBPF, Control Plane Design
+ DESC   :: Research architecture correlating AI agent intent with
+          kernel execution graphs for secure autonomous systems.
 
-  [HYPERION] Network Security Layer
-             └─ CORE:   C, eBPF (XDP), Python
-             └─ DESC:   Attaches directly to NIC driver. Inspects L7 
-                        payloads and drops hostile packets before SKB 
-                        allocation (Zero-Copy enforcement).
+-------------------------------------------------------------------
+[ TECHNICAL TOOLCHAIN ]
 
-  [VAULT]    Security Control Plane
-             └─ CORE:   SQL, Access Logic, gRPC
-             └─ DESC:   Authoritative backend for the defense grid. 
-                        Handles dynamic policy distribution, logging, 
-                        and real-time enforcement updates.
+ LANGUAGES    :: C, C++, Rust, Python, x86 Assembly
+ KERNEL       :: eBPF (LSM/XDP/TC), Linux Internals, Namespaces, cgroups
+ NETWORK      :: TCP/IP Internals, Protobuf, gRPC
+ DEBUGGING    :: GDB, bpftool, strace, perf, Wireshark
 
-  [KERNEL]   Custom Research Builds
-             └─ HOST:   Fedora 43, Kernel 6.18
-             └─ DESC:   Namespace experiments, cgroup v2 resource 
-                        isolation, seccomp filter crafting, and 
-                        distro rice configs.
+-------------------------------------------------------------------
+[ CONNECT ]
 
-  -----------------[ BINARY ARSENAL ]--------------
-
-  LANGUAGES  C, Go, Rust, Python, x86 Assembly
-  KERNEL     eBPF, LSM Hooks, XDP, Namespaces, cgroups v2
-  NETWORKING TC-BPF, Protobuf, gRPC, L7 Dissection
-  DEBUG      GDB, bpftool, strace, Wireshark, perf
-  INTERESTS  Kernel Hacking, Distro Ricing, Poetry
-
-  -----------------[ CONTACT UPLINK ]--------------
-
-  EMAIL      nevinshine05@outlook.com
-  LINKEDIN   linkedin.com/in/nevin-shine-b403b932b
-  GITHUB     github.com/nevinshine
+ EMAIL        :: nevinshine05@outlook.com
+ GITHUB       :: [github.com/nevinshine](https://github.com/nevinshine)
+ LINKEDIN     :: [linkedin.com/in/nevin-shine-b403b932b](https://linkedin.com/in/nevin-shine-b403b932b)
+ LOCATION     :: Germany / India
 
 nevin@fedora-lab:~$ uptime
-  up 20y — hacking kernels, no swap needed.
-
-nevin@fedora-lab:~$ _
-
-```
+ up 20y — building systems, still compiling.
