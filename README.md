@@ -4,8 +4,7 @@
 nevin@fedora-lab:~$ ./fetch_profile
 
 ===================================================================
- NEVIN SHINE
- Systems Security Student  |  Linux Kernel & eBPF Researcher
+ Hi, It's me Nevin...
 ===================================================================
 
 [ WHOAMI ]
