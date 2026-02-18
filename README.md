@@ -1,76 +1,40 @@
-### Nevin Shine @ `fedora-lab`
-
----
-
 ```console
-nevin@fedora-lab:~$ ./fetch_profile
+nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 
-===================================================================
- Hi, It's me Nevin...
-===================================================================
+============== [ SYSTEM IDENTITY LOADED ] ==============
 
-[ WHOAMI ]
+! USER_ID:   Nevin Shine (uid=1000)
+! CONTEXT:   Systems Security Research Engineer
+! TARGET:    Mitigating Fileless Malware & Living-off-the-Land
 
- Systems security student focused on bridging the "semantic gap"
- between compile-time intent and runtime enforcement.
++ [0x01] CORE ARCHITECTURE
+--------------------------------------------------------
+  > Strategy: Deterministic, kernel-native defense
+  > Tech Stack: eBPF, LLVM, Linux Security Modules (LSM)
+  > Objective: Migrating ptrace supervision -> Ring-0 eBPF
 
- Specializing in deterministic, kernel-native defense architectures
- using eBPF, LLVM, and Linux Security Modules (LSM).
++ [0x02] RUNTIME MODULES
+--------------------------------------------------------
+  [+] Sentinel-CC................. verified (Compiler-Kernel Trust Chain)
+  [+] Sentinel Runtime............ running  (Process Lineage/Syscall Prov)
+  [+] Hyperion XDP................ running  (Zero-Copy Packet Filter)
+  [+] Telos Runtime............... loading  (AI Agent Intent Correlation)
 
- Currently researching high-performance runtime enforcement by
- migrating legacy ptrace supervision into ring-0 eBPF-LSM engines
- to mitigate fileless malware and Living-off-the-Land attacks.
++ [0x03] ARSENAL
+--------------------------------------------------------
+  # LANGUAGES:   C | C++ | Rust | Python | Assembly
+  # KERNEL:      eBPF | Namespaces | cgroups | Linux Internals
+  # NETWORK:     TCP/IP | Protobuf | gRPC
+  # FORENSICS:   GDB | bpftool | strace | Wireshark
 
--------------------------------------------------------------------
+! [0x04] UPLINK ESTABLISHED
+--------------------------------------------------------
+  @: nevinshine05@outlook.com
+  L: Nürnberg, DE / Kottayam, IN
+  W: nevinshine.github.io
 
-[ ACTIVE RESEARCH SYSTEMS ]
+========================================================
 
- Sentinel-CC — Compiler-Kernel Trust Chain
- CORE   :: LLVM, C++, eBPF
- DESC   :: Policy-Carrying Code (PCC) architecture that cryptographically
-          binds compiler-verified execution intent to kernel enforcement.
-          Supports ASLR normalization via Map-of-Maps design.
-
- Sentinel Runtime — Kernel Intrusion Prevention
- CORE   :: C, eBPF LSM Hooks
- DESC   :: Host-based runtime defense system enforcing process lineage
-          and syscall provenance to block fileless malware.
-
- Hyperion — Wire-Speed Network Containment
- CORE   :: C, eBPF XDP
- DESC   :: NIC-level firewall performing zero-copy packet filtering
-          to disrupt command-and-control channels in real time.
-
- Telos Runtime — Agentic Security Architecture
- CORE   :: eBPF, Control Plane Design
- DESC   :: Research architecture correlating AI agent intent with
-          kernel execution graphs for secure autonomous systems.
-
--------------------------------------------------------------------
-
-[ TECHNICAL TOOLCHAIN ]
-
- LANGUAGES    :: C, C++, Rust, Python, x86 Assembly
- KERNEL       :: eBPF (LSM/XDP/TC), Linux Internals, Namespaces, cgroups
- NETWORK      :: TCP/IP Internals, Protobuf, gRPC
- DEBUGGING    :: GDB, bpftool, strace, perf, Wireshark
-
--------------------------------------------------------------------
-
-[ CONNECT ]
-
- EMAIL        :: nevinshine05@outlook.com
- GITHUB       :: /nevinshine
- LINKEDIN     :: /in/nevin-shine-b403b932b
- LOCATION     :: Nürnberg, Germany / Kottayam, India
- PORTFOLIO    :: nevinshine.github.io/
-
-===================================================================
-
-nevin@fedora-lab:~$ uptime
- up 20y — building systems, still compiling.
+nevin@fedora-lab:~$
 
 ```
----
-
-Nevin Shine @ 2026
