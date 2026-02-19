@@ -4,7 +4,7 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 ============== [ SYSTEM IDENTITY LOADED ] ==============
 
 ! USER_ID:   Nevin Shine (uid=1000)
-! CONTEXT:   Systems Security Research Engineer
+! CONTEXT:   Systems Security Researcher
 ! TARGET:    Mitigating Fileless Malware & Living-off-the-Land
 
 + [0x01] CORE ARCHITECTURE
