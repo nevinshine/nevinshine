@@ -5,7 +5,8 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 
 ! USER_ID :   Nevin Shine (uid=1000)
 ! CONTEXT :   Systems Security Researcher
-! TARGET  :   Cross-Layer Intent Enforcement & Zero-Trust Architecture
+! TARGET  :   Cross-Layer Intent Enforcement & Zero-Trust 
+              Architecture
 
 + [0x01] CORE ARCHITECTURE
 --------------------------------------------------------
