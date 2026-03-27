@@ -3,16 +3,16 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 
 ============== [ SYSTEM IDENTITY LOADED ] ==============
 
-! USER_ID:   Nevin Shine (uid=1000)
-! CONTEXT:   Systems Security Researcher
-! TARGET:    Cross-Layer Intent Enforcement & Zero-Trust Architecture
+! USER_ID :   Nevin Shine (uid=1000)
+! CONTEXT :   Systems Security Researcher
+! TARGET  :   Cross-Layer Intent Enforcement & Zero-Trust Architecture
 
 + [0x01] CORE ARCHITECTURE
 --------------------------------------------------------
-  > Strategy: Deterministic, kernel-native defense
-  > Tech Stack: eBPF, LLVM, Linux Security Modules (LSM), AMD-V
-  > Objective: Closing the Semantic-to-Execution Gap
-              from Ring -1 hardware to L7 MCP semantics
+  > Strategy   : Deterministic, kernel-native defense
+  > Tech Stack : eBPF, LLVM, Linux Security Modules (LSM), AMD-V
+  > Objective  : Closing the Semantic-to-Execution Gap
+                 from Ring -1 hardware to L7 MCP semantics
 
 ┌─────────────────────────────────────────────────────────────────┐
 │  [0x02]  SENTINEL STACK                                         │
