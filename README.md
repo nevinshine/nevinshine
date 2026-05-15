@@ -53,7 +53,7 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 ! [0x04] UPLINK ESTABLISHED
 --------------------------------------------------------
   @: nevinshine05@outlook.com
-  L: Nürnberg, DE / Kottayam, IN
+  L: Nürnberg, DE
   W: nevinshine.github.io
   G: github.com/nevinshine
   
