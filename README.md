@@ -11,19 +11,20 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 + [0x01] CORE ARCHITECTURE
 --------------------------------------------------------
   > Strategy   : Deterministic, kernel-native defense
-  > Tech Stack : eBPF, LLVM, Linux Security Modules (LSM), AMD-V
+  > Tech Stack : eBPF, LLVM, LSM, AMD-V, ARMv8 EL2
   > Objective  : Closing the Semantic-to-Execution Gap
                  from Ring -1 hardware to L7 MCP semantics
 
 ┌─────────────────────────────────────────────────────────────────┐
-│  [0x02]  SENTINEL STACK                                         │
+│  [0x02]  SENTINEL STACK & ALLIED PROJECTS                       │
 ├──────────────┬──────────────────────────────────────────────────┤
 │              │                                                  │
-│   Ring -1    │  Sentinel VMI     AMD-V · NPT Guard              │
+│   Ring -1    │  Sentinel VMI     x86_64 EPT · ARM64 Stage 2     │
 │   Ring  0    │  Sentinel-CC      Ed25519 · PCC Enforcement      │
 │   Ring  0    │  Telos Runtime    LSM · Intent Correlation       │
-│   Ring  0    │  Sentinel RT      Seccomp · HIDS                 │
-│   Compile    │  Telos Language   Kernel-Aware Compiler          │
+│   Ring  0    │  Sentinel RT      Seccomp / LSM · HIDS (M8.2)    │
+│   Compile    │  Telos Language   Kernel-Aware Intent Compiler   │
+│   Analysis   │  Sentinel-KV      LLVM IR / SMT Formal Verifier  │
 │   Wire       │  Hyperion XDP     NIC-Level · Zero-Copy          │
 │   L7         │  TBD              MCP · Semantic Firewall        │
 │              │                                                  │
@@ -33,22 +34,24 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 │  ──────                                                         │
 │  Sentinel-CC      ██████████  verified   81.6% attack surface ↓ │
 │  Hyperion XDP     ██████████  running    wire-speed XDP_DROP    │
-│  Telos Runtime    ████████░░  loading    IFC · taint tracking   │
+│  Telos Runtime    ██████████  active     IFC · taint tracking   │
+│  Sentinel-KV      ████████░░  proving    LLVM IR stack-spills   │
 │  Telos Language   ███████░░░  building   Z3 · dual-target IR    │
-│  Sentinel VMI     █████░░░░░  testing    Ring -1 introspection  │
-│  Sentinel RT      ████░░░░░░  active     seccomp · io_uring     │
+│  Sentinel VMI     ████████░░  testing    AArch64 EL2 Drawbridge │
+│  Sentinel RT      ███████░░░  active     M8 Citadel eBPF hooks  │
 │  TBD              ███░░░░░░░  bridging   L7 → Ring 0 sync       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 
 + [0x03] ARSENAL
 --------------------------------------------------------
-  # LANGUAGES:   C | C++ | Rust | Go | Python | Assembly
+  # LANGUAGES:   C | C++ | Rust | Go | Python | AArch64/x86 Assembly
   # COMPILER:    LLVM | inkwell | Dual-Target IR | goblin ELF
-  # FORMAL:      Z3 SMT | Hoare Logic | IFC Lattice | BitVector
-  # KERNEL:      eBPF | LSM | KVMi | AMD-V | Namespaces | cgroups
+  # FORMAL:      Z3 SMT | Hoare Logic | IFC Lattice | Sentinel-KV
+  # KERNEL:      eBPF | LSM | KVMi | Seccomp ADDFD | cgroups
+  # HARDWARE:    ARMv8 EL2 | Stage 2 MMU | AMD-V NPT Guard
   # NETWORK:     TCP/IP | XDP | Protobuf | gRPC | MCP
-  # FORENSICS:   GDB | bpftool | strace | pahole | objdump
+  # FORENSICS:   QEMU Bare-Metal | GDB | bpftool | strace | pahole
   
 ! [0x04] UPLINK ESTABLISHED
 --------------------------------------------------------
