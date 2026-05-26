@@ -11,14 +11,15 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 + [0x01] CORE ARCHITECTURE
 --------------------------------------------------------
   > Strategy   : Deterministic, kernel-native defense
-  > Tech Stack : eBPF, LLVM, LSM, AMD-V, ARMv8 EL2
+  > Tech Stack : eBPF, LLVM, LSM, AMD-V, ARMv8 EL2, UEFI SMM
   > Objective  : Closing the Semantic-to-Execution Gap
-                 from Ring -1 hardware to L7 MCP semantics
+                 from Ring -2 firmware to L7 MCP semantics
 
 ┌─────────────────────────────────────────────────────────────────┐
 │  [0x02]  SENTINEL STACK & ALLIED PROJECTS                       │
 ├──────────────┬──────────────────────────────────────────────────┤
 │              │                                                  │
+│   Ring -2    │  Sentinel SMM     UEFI DXE · SMI Sandboxing      │
 │   Ring -1    │  Sentinel VMI     x86_64 EPT · ARM64 Stage 2     │
 │   Ring  0    │  Sentinel-CC      Ed25519 · PCC Enforcement      │
 │   Ring  0    │  Telos Runtime    LSM · Intent Correlation       │
@@ -35,6 +36,7 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 │  Sentinel-CC      ██████████  verified   81.6% attack surface ↓ │
 │  Hyperion XDP     ██████████  running    wire-speed XDP_DROP    │
 │  Telos Runtime    ██████████  active     IFC · taint tracking   │
+│  Sentinel SMM     ████████░░  testing    CPL0 Trap · MSR bounds │
 │  Sentinel-KV      ████████░░  proving    LLVM IR stack-spills   │
 │  Telos Language   ███████░░░  building   Z3 · dual-target IR    │
 │  Sentinel VMI     ████████░░  testing    AArch64 EL2 Drawbridge │
@@ -49,7 +51,8 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
   # COMPILER:    LLVM | inkwell | Dual-Target IR | goblin ELF
   # FORMAL:      Z3 SMT | Hoare Logic | IFC Lattice | Sentinel-KV
   # KERNEL:      eBPF | LSM | KVMi | Seccomp ADDFD | cgroups
-  # HARDWARE:    ARMv8 EL2 | Stage 2 MMU | AMD-V NPT Guard
+  # HARDWARE:    ARMv8 EL2 | Stage 2 MMU | AMD-V NPT | x86 SMM
+  # FIRMWARE:    UEFI DXE | EDK II | SMI Handlers | ACPI Tables
   # NETWORK:     TCP/IP | XDP | Protobuf | gRPC | MCP
   # FORENSICS:   QEMU Bare-Metal | GDB | bpftool | strace | pahole
   
@@ -61,4 +64,3 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
   G: github.com/nevinshine
   
 ========================================================
-
