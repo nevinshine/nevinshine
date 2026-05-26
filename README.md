@@ -60,7 +60,8 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 --------------------------------------------------------
   @: nevinshine05@outlook.com
   L: Nürnberg, DE
-  W: nevinshine.github.io
+  W: nevinshine.codeberg.page
   G: github.com/nevinshine
+  C: codeberg.org/nevinshine
   
 ========================================================
