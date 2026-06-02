@@ -47,7 +47,7 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 
 + [0x03] TOOLCHAIN & RESEARCH DOMAINS
 --------------------------------------------------------
-  # LANGUAGES:   Rust | C | Verilog | Go | Python | RISC-V/x86 Asm
+  # LANGUAGES:   C | Rust | Verilog | Go | Python | RISC-V/x86 Asm
   # COMPILERS:   LLVM | inkwell | AST Parsing | IR lowering | goblin
   # FORMAL:      Z3 SMT | SymbiYosys | IFC Lattices | LTL Constraints
   # HARDWARE:    RISC-V | TCA Prototype | ARMv8 EL2 | AMD-V NPT
