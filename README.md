@@ -1,4 +1,3 @@
-```console
 nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 
 ============== [ SYSTEM IDENTITY LOADED ] ==============
@@ -13,21 +12,21 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
   > Strategy   : Deterministic enforcement, bounded verification,
                  hardware-assisted mediation
   > Tech Stack : RISC-V, Z3 SMT, eBPF, LLVM, Verilog, Hypervisors
-  > Objective  : Constraining semantic drift between
-                 compiler intent and runtime execution
+  > Objective  : Constraining runtime divergence from verified
+                 compiler intent
 
 ┌───────────────────────────────────────────────────────────────────┐
 │  [0x02]  SENTINEL STACK & ALLIED PROJECTS                         │
 ├──────────────┬────────────────────────────────────────────────────┤
 │              │                                                    │
 │   RTL Model  │  TCA Prototype    Verilog · Capability Filtering   │
-│   Firmware   │  Sentinel VMI     RISC-V PMP · ebreak Routing      │
+│   Firmware   │  Sentinel PMP     RISC-V PMP · ebreak Routing      │
 │   Hypervisor │  Sentinel VMI     x86_64 EPT · ARM64 Stage-2       │
 │   Kernel     │  Telos Runtime    LSM · IFC Correlation            │
 │   Compiler   │  Telos Language   Z3 Constraints · LLVM Codegen    │
 │   Analysis   │  Sentinel-KV      LLVM IR · SMT Constraint Checks  │
 │   Network    │  Hyperion XDP     XDP · Zero-Copy Filtering        │
-│   L7 Policy  │  Cortex Engine    MCP · Intent Correlation         │
+│   Control    │  Cortex Engine    MCP · Intent Correlation         │
 │              │                                                    │
 ├──────────────┴────────────────────────────────────────────────────┤
 │                                                                   │
@@ -36,7 +35,7 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 │  TCA Prototype    ████████░░  simulated    RTL capability gate    │
 │  Telos Language   ████████░░  prototype    IFC / LTL constraints  │
 │  Sentinel-CC      ███████░░░  research     PCC experimentation    │
-│  Hyperion XDP     ██████████  running      XDP_DROP datapath      │
+│  Hyperion XDP     ██████████  running      AF_XDP orchestration   │
 │  Telos Runtime    ████████░░  active       IFC · taint tracking   │
 │  Sentinel SMM     ██████░░░░  exploratory  SMM boundary research  │
 │  Sentinel-KV      ██████░░░░  experimental LLVM IR analysis       │
@@ -54,7 +53,7 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
   # KERNEL:      eBPF | LSM | KVMi | BTF | Seccomp | Netlink
   # NETWORKING:  TCP/IP | XDP | DNS Interception | gRPC | Protobuf
   # SIMULATION:  QEMU | RTL Modeling | Bare-Metal Emulation
-  # POLICY AI:   Intent Classification | Policy Map | MCP Routing
+  # CONTROL:     Intent Classification | Policy Graphs | Capability Routing
   # CRYPTO:      Ed25519 | SipHash | HMAC | Capability Receipts
   # OBSERVE:     Prometheus | JSONL SIEM | BPF Ringbuf | SQLite
 
