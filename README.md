@@ -1,3 +1,4 @@
+```console
 nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 
 ============== [ SYSTEM IDENTITY LOADED ] ==============
