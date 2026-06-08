@@ -5,7 +5,7 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 
 ! USER_ID :   Nevin Shine (uid=1000)
 ! CONTEXT :   Systems Security Researcher
-! FOCUS   :   Cross-Layer Intent Enforcement &
+! FOCUS   :   Compiler-to-Runtime Constraint Enforcement &
               Hardware-Assisted Runtime Security
 
 + [0x01] CORE ARCHITECTURE
@@ -27,7 +27,7 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 │   Compiler   │  Telos Language   Z3 Constraints · LLVM Codegen    │
 │   Analysis   │  Sentinel-KV      LLVM IR · SMT Constraint Checks  │
 │   Network    │  Hyperion XDP     XDP · Zero-Copy Filtering        │
-│   Control    │  Cortex Engine    MCP · Intent Correlation         │
+│   Control    │  Cortex Engine    Capability Correlation           │
 │              │                                                    │
 ├──────────────┴────────────────────────────────────────────────────┤
 │                                                                   │
@@ -49,12 +49,12 @@ nevin@fedora-lab:~/security-research$ ./identity_matrix.sh
 --------------------------------------------------------
   # LANGUAGES:   C | Rust | Verilog | Go | Python | RISC-V/x86 Asm
   # COMPILERS:   LLVM | inkwell | AST Parsing | IR lowering | goblin
-  # FORMAL:      Z3 SMT | SymbiYosys | IFC Lattices | LTL Constraints
+  # FORMAL:      Z3 SMT | IFC Constraints | RTL Verification
   # HARDWARE:    RISC-V | TCA Prototype | ARMv8 EL2 | AMD-V NPT
   # KERNEL:      eBPF | LSM | KVMi | BTF | Seccomp | Netlink
   # NETWORKING:  TCP/IP | XDP | DNS Interception | gRPC | Protobuf
   # SIMULATION:  QEMU | RTL Modeling | Bare-Metal Emulation
-  # CONTROL:     Intent Classification | Policy Graphs | Capability Routing
+  # CONTROL:     Policy Graphs | Capability Routing | Runtime Correlation
   # CRYPTO:      Ed25519 | SipHash | HMAC | Capability Receipts
   # OBSERVE:     Prometheus | JSONL SIEM | BPF Ringbuf | SQLite
 
